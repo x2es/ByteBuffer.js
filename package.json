@@ -13,7 +13,7 @@
     },
     "keywords": ["net", "array", "buffer", "arraybuffer", "typed array", "bytebuffer", "json", "websocket", "webrtc"],
     "dependencies": {
-        "long": "latest"
+        "long": "1.1.2"
     },
     "devDependencies": {
         "testjs": "latest",
